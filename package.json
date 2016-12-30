@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "author": "Your Name Here!",
+  "private": true,
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
